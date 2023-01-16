@@ -2,7 +2,7 @@
 
 My name is Sebastian, I'm a computer science student who works in RPA Development. I have interests in Deep Learning, Natural Language Processing (NLP) and Computer Vision.
 
-##Languages and Tools
+## Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
