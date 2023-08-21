@@ -2,11 +2,11 @@
 I'm a Computer Science student and a Robotic Process Automation (RPA) developer at KPMG Argentina.
 In my free time I enjoy coding random projects with a hot chocolate beside me.
 
-Right now I'm working on a command-line game: [![Zork (Name To Change)]()](https://github.com/sebascantini/Zork) 
+Right now I'm working on a command-line game: [![Zork (Name To Change)]()](https://github.com/scantinibudden/Zork) 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebascantini) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scantinibudden) 
 
 # 💻 Tech Stack:
 
@@ -30,9 +30,9 @@ Right now I'm working on a command-line game: [![Zork (Name To Change)]()](https
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sebascantini&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sebascantini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebascantini&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=scantinibudden&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=scantinibudden&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=scantinibudden&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascantini&icon=0&color=0)](https://visitcount.itsvg.in)
