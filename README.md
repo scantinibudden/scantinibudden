@@ -2,7 +2,7 @@
 I'm a Computer Science student and a Robotic Process Automation (RPA) developer at KPMG Argentina.
 In my free time I enjoy coding random projects with a hot chocolate beside me.
 
-Right now I'm working on a command-line game: [![Zork (Name To Change)]()](https://github.com/scantinibudden/Zork) 
+Right now I'm working on a [![RAG]()](https://github.com/scantinibudden/RAG) system utilizing Large Language Models (LLM)
 
 
 ## 🌐 Socials:
