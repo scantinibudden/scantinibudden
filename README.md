@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student and a Robotic Process Automation (RPA) developer at KPMG Argentina.
+I'm a Computer Science student and a AI developer working with large language models at English4Kids.
 In my free time I enjoy coding random projects with a hot chocolate beside me.
 
 ## 🌐 Socials:
