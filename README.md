@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a Computer Science student and a AI developer working with large language models at English4Kids.
-In my free time I enjoy coding random projects with a hot chocolate beside me.
+I'm a Machine Learning Engineer working with large language models at Pacwest AI.
+In my free time, I enjoy coding random projects with a hot chocolate beside me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scantinibudden) 
