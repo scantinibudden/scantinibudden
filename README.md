@@ -1,23 +1,176 @@
-# About Me
-Software Engineer & Infrastructure Lead at **Peak Health**, building backend systems and AWS infrastructure for longevity and women's health. TypeScript/Node.js by day, Arch Linux tinkering and Kali Pi pentesting by night.
+<div align="center">
 
-In my free time, I'm building a pentest lab on a Raspberry Pi, running local LLMs, or working on random side projects.
+```
+ ██████╗ ██████╗ ██████╗ ███████╗    ██╗  ██╗██╗   ██╗██████╗ 
+██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║  ██║██║   ██║██╔══██╗
+██║     ██║   ██║██████╔╝█████╗      ███████║██║   ██║██████╔╝
+██║     ██║   ██║██╔══██╗██╔══╝      ██╔══██║██║   ██║██╔══██╗
+╚██████╗╚██████╔╝██║  ██║███████╗    ██║  ██║╚██████╔╝██████╔╝
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+```
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scantinibudden)
+### Software Engineer · Infrastructure Lead · Privacy Advocate
 
-# Stack
-## Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 
-## Infrastructure & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
 
-## Databases
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+---
 
-## AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## `> whoami`
 
-## Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+Software engineer and infrastructure lead at a healthtech company focused on **longevity and women's health**. I architect backend systems, manage cloud infrastructure at scale, and lead cross-functional hiring across frontend, backend, and AI roles. Based in **Buenos Aires, Argentina** 🇦🇷.
+
+I care deeply about **privacy, operational security, and open-source tooling** — both professionally and personally.
+
+---
+
+## `> cat /etc/stack`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Infrastructure
+- **AWS CDK** — DynamoDB, S3, RDS, SQS, SES, SNS
+- **ECS** deployment pipelines
+- **GitHub Actions** CI/CD
+- **10DLC / SMS** campaign registration
+- Staging/production environment management
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Languages & Frameworks
+- **TypeScript / Node.js** — primary stack
+- **Python** — scripting, scraping, automation
+- **R** — statistical modeling (linear mixed models)
+- **LaTeX** — academic papers, novel typesetting
+- **Bash** — system automation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 Security & Privacy
+- **Kali Linux** on Raspberry Pi 4 — pentest lab
+- **Alfa AWUS036ACH** — wireless auditing
+- **RTL-SDR v4** — RF exploration
+- Compartmentalized digital identities
+- Mullvad · LibreWolf · KeePassXC (Argon2id)
+- Tails OS · Tor · ProtonVPN
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Workstation
+- **Desktop** — RTX 4080 Super · 64GB RAM · Arch + KDE
+- **Laptop** — MacBook Pro M4 Pro
+- **Pentest Kit** — Raspberry Pi 4 + Kali ARM64
+- **Local LLMs** — Ollama / LM Studio
+- Qwen 3.5 (9B/27B) quantized models
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ls ~/projects`
+
+```
+📁 peak-health/          — AWS infrastructure, API integrations, team scaling
+📁 kali-pi-lab/          — Portable pentest toolkit (Pi 4 + Alfa + RTL-SDR)
+📁 local-llm-bench/      — Quantization benchmarks on consumer GPUs
+📁 comics-search-engine/  — Python scraper + personal search index
+📁 dark-fantasy-novel/    — LaTeX-typeset novel with TTRPG character tracking
+📁 eye-tracking-thesis/   — Reading research: FFD, FPRT, mixed models in R
+```
+
+---
+
+## `> cat ~/research.bib`
+
+**Eye-tracking & reading research** — analyzing fixation metrics (FFD, FPRT, skip rates) across 76 Spanish-speaking participants reading short stories. Statistical modeling with linear mixed models via `pymer4`, exploring effects of word length, frequency, sentence position, and fatigue. Includes an online cloze experiment for lexical predictability estimation.
+
+> _Tools: R · pymer4 · LaTeX (Overleaf) · BibTeX/natbib_
+
+---
+
+## `> neofetch --personality`
+
+```
+         /\            ┌──────────────────────────────┐
+        /  \           │  OS:      Arch Linux (btw)    │
+       /\   \          │  DE:      KDE Plasma           │
+      /      \         │  Editor:  VS Code              │
+     /   ,,   \        │  Browser: LibreWolf            │
+    /   |  |  -\       │  VPN:     Mullvad              │
+   /_-''    ''-_\      │  Shell:   zsh                  │
+                       │  Dog:     German Shepherd 🐕   │
+                       └──────────────────────────────┘
+```
+
+---
+
+## `> cat ~/interests.yml`
+
+```yaml
+gaming:
+  currently_playing:
+    - "Life is Strange (full series)"
+    - "Hades"
+    - "Minecraft"
+  platforms: [Desktop, Handheld (researching)]
+
+anime_manga:
+  watching:
+    - One Piece
+    - Jujutsu Kaisen
+    - Made in Abyss
+    - Fate series
+
+hobbies:
+  - Cocktail crafting
+  - Cooking & nutrition
+  - Novel writing (dark fantasy horror)
+  - Privacy & OPSEC research
+
+languages:
+  - Spanish (native)
+  - English (fluent)
+```
+
+---
+
+## `> gpg --list-principles`
+
+```
+🔑 Privacy is not about having something to hide — it's about having something to protect.
+🔑 Infrastructure should be reproducible, auditable, and boring.
+🔑 The best security setup is the one you actually use.
+🔑 Ship it, then iterate.
+```
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  "Any sufficiently advanced infrastructure  │
+│   is indistinguishable from magic."         │
+│                          — probably someone │
+└─────────────────────────────────────────────┘
+```
+
+[![Arch](https://img.shields.io/badge/I_use_Arch-btw-1793D1?style=flat-square&logo=archlinux&logoColor=white)](#)
+[![Privacy](https://img.shields.io/badge/Privacy-First-2ea44f?style=flat-square&logo=tor&logoColor=white)](#)
+[![Coffee](https://img.shields.io/badge/Powered_by-Mate_🧉-yellow?style=flat-square)](#)
+
+</div>
