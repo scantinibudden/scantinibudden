@@ -1,7 +1,7 @@
 # About Me
 Software Engineer & Infrastructure Lead at **Peak Health**, building backend systems and AWS infrastructure for longevity and women's health. TypeScript/Node.js by day, Arch Linux tinkering and Kali Pi pentesting by night.
 
-In my free time, I'm building a pentest lab on a Raspberry Pi, running local LLMs, or working on random side projects with a mate nearby.
+In my free time, I'm building a pentest lab on a Raspberry Pi, running local LLMs, or working on random side projects.
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scantinibudden)
