@@ -57,7 +57,7 @@ I care deeply about **privacy, operational security, and open-source tooling** �
 <td width="50%" valign="top">
 
 ### 🖥️ Workstation
-- **Desktop** — RTX 4080 Super · 64GB RAM · Arch
+- **Desktop** — RTX 4080 Super · 64GB RAM
 - **Laptop** — MacBook Pro M4 Pro
 - **Other** — Raspberry Pi 4
 - **Local LLMs** — VLLM / Ollama
