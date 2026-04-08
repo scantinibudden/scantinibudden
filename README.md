@@ -48,7 +48,7 @@ I care deeply about **privacy, operational security, and open-source tooling** �
 - **TypeScript / Node.js** — primary stack
 - **Python** — scripting, scraping, automation
 - **R** — statistical modeling (linear mixed models)
-- **LaTeX** — academic papers, novel typesetting
+- **LaTeX** — academic papers
 - **Bash** — system automation
 
 </td>
