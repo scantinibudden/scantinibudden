@@ -3,7 +3,7 @@ Software Engineer & Infrastructure Lead at **Peak Health**, building backend sys
 
 In my free time, I'm building a pentest lab on a Raspberry Pi, running local LLMs, or working on random side projects with a mate nearby.
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scantinibudden)
 
 # Stack
@@ -22,7 +22,7 @@ In my free time, I'm building a pentest lab on a Raspberry Pi, running local LLM
 ## Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=scantinibudden&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=scantinibudden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=scantinibudden&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=scantinibudden&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=scantinibudden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
